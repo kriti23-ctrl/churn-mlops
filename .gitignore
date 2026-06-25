@@ -3,6 +3,6 @@ __pycache__/
 *.pyc
 mlflow.db
 mlruns/
-*.pkl
+
 .env
 venv/
